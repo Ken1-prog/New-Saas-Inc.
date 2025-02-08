@@ -11,16 +11,17 @@ The top five customers in 2024 were: Prudential Services, Johnson & Johnson, Ban
 The top five customer service industries in 2024 were: Healthcare (19%), Finance (14%), Retail (12%), Transportation (9%), and Insurance Services (8%).
 New Saas Inc. ended the year 2024 with a record $56 million in net subscription revenue, an 18% increase over the previous year. 
 
-Key Insights
-New Saas Inc. provides seven major product solutions and two service subscription levels (Standard and Premium). 
+Key Insights:
+
+A)  New Saas Inc. provides seven major product solutions and two service subscription levels (Standard and Premium). 
 The major product offerings are: Artificial Intelligence platform, Business Intelligence software, Core Platform Suite, Customer Service Cloud,
 Marketing Cloud, Sales Cloud, and Teams Productivity.
 
-New Saas Inc. offers three different customer support plans:   Standard (level 1), Premier (level 2), and Signature (level 3). 
+B)  New Saas Inc. offers three different customer support plans:   Standard (level 1), Premier (level 2), and Signature (level 3). 
 In 2024, the average customer subscribed to six out of the seven product offerings, subscribed to the Standard level customer support plan, 
 and had twenty-two individual user licenses.
 
-In 2024, the Core Platform Suite generated the largest source of net subscription revenue at $11.8 million (or 21% of total company revenue).
+C)  In 2024, the Core Platform Suite generated the largest source of net subscription revenue at $11.8 million (or 21% of total company revenue).
 Business Intelligence software came in second place with $11.4 million (or 20%) of total company revenue.
 
 A detailed analysis of 2024 subscription revenue transactions revealed two additional revenue growth opportunities for the year 2025.
