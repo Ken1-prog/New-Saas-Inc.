@@ -1,5 +1,9 @@
 # New-Saas-Inc.
 
+## Tableau Dashboard
+Here is the link to my Tableau Public dashboard:
+[My Tableau Dashboard]( https://public.tableau.com/app/profile/kenton.fong6704/viz/TabSaasWkBook1/Dashboard1)
+
 Business Profile and Financial Highlights for the year 2024:
 
 New Saas Inc. serves ninety-nine major corporate customers across the globe.
