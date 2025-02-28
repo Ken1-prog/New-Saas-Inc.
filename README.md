@@ -1,4 +1,4 @@
-![Pic1](New-Saas-Inc/pics/Pic3_proj_mtg.jpg)
+![Pic1](Ken1-prog/New-Saas-Inc/pics/Pic3_proj_mtg.jpg)
 
 ## Analysis Project:    New Saas Tech Solutions     
 
