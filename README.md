@@ -1,4 +1,4 @@
-![ScreenPic1](pics/Pic3_proj_mtg.jpg)
+![Pic1](pics/Pic3_proj_mtg.jpg)
 
 ## Analysis Project:    New Saas Tech Solutions     
 
