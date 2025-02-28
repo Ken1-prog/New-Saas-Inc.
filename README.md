@@ -1,4 +1,4 @@
-# New-Saas-Inc.
+## New-Saas-Technology-Solutions (NSTS) Portfolio Analysis Project
 
 ## Tableau Dashboard
 Here is the link to my Tableau Public dashboard:
@@ -32,7 +32,7 @@ Four specific products have the potential to generate additional revenue in the 
 •	22 customers could benefit from the Sales Cloud platform and may lead to $1.8 million in additional revenue in 2025.
 •	16 customers could benefit from the Marketing Cloud platform and may lead to $1.3 million in additional revenue in 2025.
 
-#  Opportunity # 2:  
+## Opportunity # 2:  
 Some customers could benefit by upgrading their customer support level from Standard to Premier. 
 The majority of NSTS customers have a subscription to a Premium (level 2) product but only have a Standard (Level 1) customer support plan subscription. 
 If customers upgrade their customer support plan from Standard (Level 1) to Premier (Level 2), incremental
@@ -40,7 +40,7 @@ customer support revenue in the range of $391 thousand and $783 thousand could b
 If customers upgrade their support level to Signature (Level 3), then somewhere between $861 thousand
 and $1.7 million in additional revenue could be generated in 2025.
 
-#  Recommendations:
+## Recommendations:
 
 A) For opportunity # 1, the Sales and Marketing Team should review the detailed report of customers.
    If a successful campaign to cross-sell these products to the current customer base is launched,
