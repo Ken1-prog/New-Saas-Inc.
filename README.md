@@ -42,11 +42,11 @@ and $1.7 million in additional revenue could be generated in 2025.
 
 ## Recommendations:
 
-A) For opportunity # 1, the Sales and Marketing Team should review the detailed report of customers.
+* For opportunity # 1, the Sales and Marketing Team should review the detailed report of customers.
    If a successful campaign to cross-sell these products to the current customer base is launched,
    these product cross-sells could lead to $5.8 million in incremental revenue in 2025.
    
-B) For opportunity # 2, the Sales and Marketing Team should review all customers who have a Premium level subscription product
+* For opportunity # 2, the Sales and Marketing Team should review all customers who have a Premium level subscription product
     but only have a Standard (Level 1) customer support plan.
    If these customers elect to upgrade their support plan levels, an estimated range between $391 thousand (conservative)
    and $1.7 million (optimistic) in additional revenue could be achieved in 2025.
