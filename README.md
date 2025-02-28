@@ -12,13 +12,13 @@ NSTS ended the year 2024 with a record $72.9 million in net subscription revenue
 
 ## Key Insights:
 
-A)  NSTS provides seven major product solutions and two service subscription levels (Standard and Premium). 
+* NSTS provides seven major product solutions and two service subscription levels (Standard and Premium). 
 The major product offerings are: Artificial Intelligence platform, Business Intelligence software, Core Platform Suite, Customer Service Cloud,
 Marketing Cloud, Sales Cloud, and Teams Productivity.
 
-B)  NSTS offers 3 different customer support plans:  Standard (level 1), Premier (level 2), and Signature (level 3). 
+* NSTS offers 3 different customer support plans:  Standard (level 1), Premier (level 2), and Signature (level 3). 
 
-C)  In 2024, the Core Platform Suite generated the largest source of net subscription revenue at 
+* In 2024, the Core Platform Suite generated the largest source of net subscription revenue at 
 $15.6 million (or 21% of total company revenue). Business Intelligence software came in second place
 with $14.9 million (or 20%) of total company revenue.
 
