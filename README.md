@@ -1,7 +1,8 @@
 
 ## Financial Data Analysis Project: 
 
-## New Saas Tech Solutions     
+## New Saas Tech Solutions 
+![ScreenPic1](pics/Pic4.JPG)
 
 #### Tableau Dashboard
 Here is the link to my Tableau Public dashboard:
