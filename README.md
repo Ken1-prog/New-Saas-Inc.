@@ -4,13 +4,13 @@
 Here is the link to my Tableau Public dashboard:
 [My Tableau Dashboard](https://public.tableau.com/app/profile/kenton.fong6704/viz/TabSaasWkBook5/Dashboard1)
 
-Business Profile and Financial Highlights for the year 2024:
+## Business Profile and Financial Highlights for the year 2024:
 
 New Saas Technology Solutions (NSTS) is a cloud-based software subscription company that serves 155 major corporate customers globally.
 The top five customers in 2024 were: Prudential Services, Johnson & Johnson, Bank of America, Ford Motor Co., and Wal-Mart.
 NSTS ended the year 2024 with a record $72.9 million in net subscription revenue, a 46% increase over the previous year. 
 
-Key Insights:
+## Key Insights:
 
 A)  NSTS provides seven major product solutions and two service subscription levels (Standard and Premium). 
 The major product offerings are: Artificial Intelligence platform, Business Intelligence software, Core Platform Suite, Customer Service Cloud,
@@ -24,7 +24,7 @@ with $14.9 million (or 20%) of total company revenue.
 
 A detailed analysis of 2024 subscription revenue transactions revealed additional revenue growth opportunities for the year 2025.
 
-Opportunity # 1:  
+## Opportunity # 1:  
 Four specific products have the potential to generate additional revenue in the year 2025.
 
 •	31 customers could benefit from the A.I. Platform and may lead to $1.1 million in incremental revenue in 2025. 
@@ -32,7 +32,7 @@ Four specific products have the potential to generate additional revenue in the 
 •	22 customers could benefit from the Sales Cloud platform and may lead to $1.8 million in additional revenue in 2025.
 •	16 customers could benefit from the Marketing Cloud platform and may lead to $1.3 million in additional revenue in 2025.
 
-Opportunity # 2:  
+#  Opportunity # 2:  
 Some customers could benefit by upgrading their customer support level from Standard to Premier. 
 The majority of NSTS customers have a subscription to a Premium (level 2) product but only have a Standard (Level 1) customer support plan subscription. 
 If customers upgrade their customer support plan from Standard (Level 1) to Premier (Level 2), incremental
@@ -40,7 +40,7 @@ customer support revenue in the range of $391 thousand and $783 thousand could b
 If customers upgrade their support level to Signature (Level 3), then somewhere between $861 thousand
 and $1.7 million in additional revenue could be generated in 2025.
 
-Recommendations:
+#  Recommendations:
 
 A) For opportunity # 1, the Sales and Marketing Team should review the detailed report of customers.
    If a successful campaign to cross-sell these products to the current customer base is launched,
