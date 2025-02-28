@@ -35,9 +35,10 @@ Four specific products have the potential to generate additional revenue in the 
 ## Opportunity # 2:  
 Some customers could benefit by upgrading their customer support level from Standard to Premier. 
 The majority of NSTS customers have a subscription to a Premium (level 2) product but only have a Standard (Level 1) customer support plan subscription. 
-If customers upgrade their customer support plan from Standard (Level 1) to Premier (Level 2), incremental
-customer support revenue in the range of $391 thousand and $783 thousand could be realized in 2025. 
-If customers upgrade their support level to Signature (Level 3), then somewhere between $861 thousand
+
+* If customers upgrade their customer support plan from Standard (Level 1) to Premier (Level 2), incremental
+customer support revenue in the range of $391 thousand and $783 thousand could be realized in 2025.
+* If customers upgrade their support level to Signature (Level 3), then somewhere between $861 thousand
 and $1.7 million in additional revenue could be generated in 2025.
 
 ## Recommendations:
