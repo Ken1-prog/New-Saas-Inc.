@@ -1,5 +1,5 @@
 
-## Finaancial Data Analysis Project: 
+## Financial Data Analysis Project: 
 
 ## New Saas Tech Solutions     
 
