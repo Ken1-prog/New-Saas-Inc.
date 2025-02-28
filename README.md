@@ -27,10 +27,10 @@ A detailed analysis of 2024 subscription revenue transactions revealed additiona
 ## Opportunity # 1:  
 Four specific products have the potential to generate additional revenue in the year 2025.
 
-•	31 customers could benefit from the A.I. Platform and may lead to $1.1 million in incremental revenue in 2025. 
-•	25 customers could benefit from the Teams Productivity platform and may lead to $1.6 million in additional revenue in 2025.
-•	22 customers could benefit from the Sales Cloud platform and may lead to $1.8 million in additional revenue in 2025.
-•	16 customers could benefit from the Marketing Cloud platform and may lead to $1.3 million in additional revenue in 2025.
+* 31 customers could benefit from the A.I. Platform and may lead to $1.1 million in incremental revenue in 2025.
+* 25 customers could benefit from the Teams Productivity platform and may lead to $1.6 million in additional revenue in 2025.
+* 22 customers could benefit from the Sales Cloud platform and may lead to $1.8 million in additional revenue in 2025.
+* 16 customers could benefit from the Marketing Cloud platform and may lead to $1.3 million in additional revenue in 2025.
 
 ## Opportunity # 2:  
 Some customers could benefit by upgrading their customer support level from Standard to Premier. 
