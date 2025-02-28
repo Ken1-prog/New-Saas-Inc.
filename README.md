@@ -1,4 +1,4 @@
-## New-Saas-Technology-Solutions (NSTS) Portfolio Analysis Project
+## New-Saas Portfolio Analysis Project
 
 ## Tableau Dashboard
 Here is the link to my Tableau Public dashboard:
